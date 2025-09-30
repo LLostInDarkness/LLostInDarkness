@@ -1,5 +1,5 @@
 Hello there, I'm Rebecca/Ren! I'm currently persuing an associates degree.  I'm planning on transferring to a 4 year university to persue a 
-bachelor's degree in Data Science and Analytics.  My main interest is motorsports like Formula 1 and IndyCar as well as using microprocessors.
+bachelor's degree in Data Science and Analytics.  My main interest is motorsports like Formula 1 and IndyCar as well as data collecting.
 
 Currently I'm in college so my projects are put on hold. But after the semester is over I will try to get back to these projects below.
 
